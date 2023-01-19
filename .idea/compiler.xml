@@ -10,16 +10,11 @@
         <module name="SortInterface" />
         <module name="SortSupportClasses" />
         <module name="Main" />
+        <module name="bubble" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="bubble" target="19" />
-      <module name="GenericSort" target="19" />
-      <module name="Main" target="19" />
       <module name="parent" target="19" />
-      <module name="Quick" target="19" />
-      <module name="SortInterface" target="19" />
-      <module name="SortSupportClasses" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>
