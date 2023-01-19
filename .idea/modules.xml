@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GenericSort.iml" filepath="$PROJECT_DIR$/GenericSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main.iml" filepath="$PROJECT_DIR$/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quick.iml" filepath="$PROJECT_DIR$/Quick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortInterface.iml" filepath="$PROJECT_DIR$/SortInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortSupportClasses.iml" filepath="$PROJECT_DIR$/SortSupportClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubble.iml" filepath="$PROJECT_DIR$/bubble.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="$MODULE_DIR$/SortInterface/pom.xml" external.system.module.type="SINGLE_MODULE" external.system.module.version="223-2" org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_19">
+    <output url="file://$MODULE_DIR$/SortInterface/target/classes" />
+    <output-test url="file://$MODULE_DIR$/SortInterface/target/test-classes" />
+    <content url="file://$MODULE_DIR$/SortInterface">
+      <sourceFolder url="file://$MODULE_DIR$/SortInterface/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SortInterface/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/SortInterface/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/SortInterface/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/SortInterface/target/generated-sources/annotations" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/SortInterface/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

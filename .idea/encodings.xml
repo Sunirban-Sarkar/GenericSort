@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Quick/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Quick/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortInterface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortSupportClasses/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortSupportClasses/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bubble/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bubble/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Quick" />
+        <module name="SortInterface" />
+        <module name="SortSupportClasses" />
+        <module name="Main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bubble" target="19" />
+      <module name="GenericSort" target="19" />
+      <module name="Main" target="19" />
+      <module name="parent" target="19" />
+      <module name="Quick" target="19" />
+      <module name="SortInterface" target="19" />
+      <module name="SortSupportClasses" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

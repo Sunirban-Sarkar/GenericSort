@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Main_jar</output-path>
+    <root id="archive" name="Main.jar">
+      <element id="module-output" name="Main" />
+      <element id="module-output" name="SortInterface" />
+      <element id="module-output" name="SortSupportClasses" />
+      <element id="module-output" name="Quick" />
+    </root>
+  </artifact>
+</component>
